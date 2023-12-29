@@ -125,10 +125,7 @@ This is one of the greatest built-in features of the git flow pattern. This give
 
 ## Helpful links
 
-<[Git Official Documentation](https://git-scm.com/docs)>
-
-<[Git Cheat Sheet](https://training.github.com/downloads/github-git-cheat-sheet.pdf)>
-
-<[How to use Git flow](https://www.campingcoder.com/2018/04/how-to-use-git-flow/)>
-
-<[Git Pro Book](https://git-scm.com/book/en/v2)>
+- https://git-scm.com/docs - Git Official Documentation.
+- https://training.github.com/downloads/github-git-cheat-sheet.pdf - Git Cheat Sheet.
+- https://www.campingcoder.com/2018/04/how-to-use-git-flow - How to use Git flow.
+- https://git-scm.com/book/en/v2 - Git Pro Book.
